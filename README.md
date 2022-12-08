@@ -1,4 +1,4 @@
-# Image Super Resolution Using Deep Convolutional Networks
+# Project WIP: Image Super Resolution Using Deep Convolutional Networks
 
 On essaye de comparer différents modèles de super-resolution:
 
