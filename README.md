@@ -1,6 +1,6 @@
 # Project WIP: Image Super Resolution Using Deep Convolutional Networks
 
-Super resolution algorithm comparison 
+In this project, we aim to compare different super resolution algorithms
 
 # Papers
 ## Image Super-Resolution Using Deep Convolutional Networks:
