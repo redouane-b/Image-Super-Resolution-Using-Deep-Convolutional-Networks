@@ -1,0 +1,1 @@
+python train.py --train-file "train_files/91-image_x2.h5" --eval-file "train_files/Set5_x2.h5"  --outputs-dir "train_files/outputs" --scale 2 --lr 1e-4 --batch-size 16 --num-epochs 400 --num-workers 8 --seed 123 
